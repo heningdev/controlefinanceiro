@@ -232,8 +232,8 @@ const handleExportPDF = async () => {
           {/* O Header agora é dividido entre Título e Botões */}
           <Header>
             <div className="title-group">
-              <h1>Controle Financeiro</h1>
-              <p>Insira seus gastos diários rapidamente.</p>
+              <h1>Controle Financeiro </h1>
+              <p>Insira seus gastos diários</p>
             </div>
             
             <ExportGroup>
